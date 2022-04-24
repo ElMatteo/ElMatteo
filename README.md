@@ -18,16 +18,15 @@
 ![C](https://img.shields.io/badge/-C-7700c6?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 <br>
-### 💻 IDE
+### 💻 Softwares
 ![VSCode](https://img.shields.io/badge/-VSCode-red?logo=visual-studio-code&style=for-the-badge)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-green?logo=virtualbox&style=for-the-badge)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-F7DF1E?logo=IntelliJ-IDEA&logoColor=black&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=MySQL&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![C](https://img.shields.io/badge/-C-7700c6?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![PhpMyAdmin](https://img.shields.io/badge/-Phpmyadmin-lightblue?logo=PhpMyAdmin&logoColor=black&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkgreen?logo=PostgreSQL&logoColor=white&style=for-the-badge)
+![Netbeans](https://img.shields.io/badge/-Netbeans-7700c6?logo=Apache-NetBeans-IDE&logoColor=white&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-777BB4?logo=Wireshark&logoColor=white&style=for-the-badge)
 <br>
 ### 📈 Github stats
   <img height=135em src="https://github-readme-stats.vercel.app/api?theme=graywhite&username=ElMatteo&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
