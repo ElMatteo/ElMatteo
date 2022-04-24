@@ -6,3 +6,6 @@
 [![twitter](https://img.shields.io/badge/-TWITTER-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ClabassiMatteo)
 [![e‑mail](https://img.shields.io/badge/-e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:matteoclabassi@gmail.com)
 [![Zolaski](https://img.shields.io/badge/-ZOLASKI.COM-000000?style=for-the-badge&logo=react&logoColor=white)]()
+
+<br><br>
+[![Stats](https://github-readme-stats.vercel.app/api?username=elmatteo&show_icons=true&include_all_commits=true&theme=github_dark)]
