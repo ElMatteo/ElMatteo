@@ -1,4 +1,4 @@
-<img src="testbanner.gif" style="width: 100%">
+<img src="testbanner.gif" style="width: 50%">
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ElMatteo)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-clabassi-b84b86204)
