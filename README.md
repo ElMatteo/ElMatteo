@@ -1,4 +1,4 @@
-<img src="testbanner.gif" style="width: 70%">
+<img src="banner.gif" style="width: 70%">
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ElMatteo)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-clabassi-b84b86204)
@@ -8,10 +8,6 @@
 [![Zolaski](https://img.shields.io/badge/-ZOLASKI.COM-000000?style=for-the-badge&logo=react&logoColor=white)]()
 
 <br><br>
-
-### 📈 Github stats
-  <img height=135em src="https://github-readme-stats.vercel.app/api?theme=graywhite&username=ElMatteo&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
-  <img height=135em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=graywhite&username=ElMatteo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8" />
 
 ### 📚 Skills
 ![Java](https://img.shields.io/badge/-JAVA-eb391a?style=for-the-badge&logo=java&logoColor=black)
@@ -24,3 +20,7 @@
 ![C](https://img.shields.io/badge/-C-7700c6?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 <br></br>
+
+### 📈 Github stats
+  <img height=135em src="https://github-readme-stats.vercel.app/api?theme=graywhite&username=ElMatteo&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+  <img height=135em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=graywhite&username=ElMatteo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8" />
