@@ -1,3 +1,3 @@
 <div style="width: 100%; margin: 0 auto;">
-<img src="testbanner.gif" style="">
+<img src="testbanner.gif">
 </div>
