@@ -11,5 +11,4 @@
 <p align="center">
   <img height=135em src="https://github-readme-stats.vercel.app/api?theme=graywhite&username=ElMatteo&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
   <img height=135em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=graywhite&username=ElMatteo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8" />
-  <img height=135em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=graywhite&username=ElMatteo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8" />
 </p>
