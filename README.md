@@ -8,5 +8,19 @@
 [![Zolaski](https://img.shields.io/badge/-ZOLASKI.COM-000000?style=for-the-badge&logo=react&logoColor=white)]()
 
 <br><br>
+
+### 📈 Github stats
   <img height=135em src="https://github-readme-stats.vercel.app/api?theme=graywhite&username=ElMatteo&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
   <img height=135em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=graywhite&username=ElMatteo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8" />
+
+### 📚 Skills
+![Java](https://img.shields.io/badge/-JAVA-eb391a?style=for-the-badge&logo=java&logoColor=black)
+![php](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-E7BA15?style=for-the-badge&logo=Python&logoColor=black)
+![Sql](https://img.shields.io/badge/-SQL-lightblue?logo=PostgreSQL&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/-C-7700c6?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+<br></br>
